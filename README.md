@@ -385,10 +385,6 @@ Run the container:
 docker run -d -p 8000:8000 --env-file .env aegisclaim-engine
 ```
 
-### Kubernetes
-
-Example deployment configuration is provided in the `kubernetes/` directory.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
